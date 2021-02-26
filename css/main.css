@@ -1,0 +1,25 @@
+body {
+  user-select: none;
+  padding: 0;
+  margin: 0;
+  height: 100vh;
+  width: 100%;
+  font-family: "Open Sans", sans-serif;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  color: #F5F5F5;
+  background: #111 url("../images/bkg-dark.svg");
+  background-size: 50%;
+}
+
+.copyright {
+  font-size: 0.9rem;
+  color: #444444;
+  line-height: 1.5;
+  font-family: "Open Sans", sans-serif;
+  font-weight: 400;
+  margin: 1em;
+}
+
+/*# sourceMappingURL=main.css.map */
