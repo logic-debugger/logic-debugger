@@ -1,0 +1,19 @@
+.onionlinks_bot {
+  opacity: 0;
+}
+.onionlinks_bot a {
+  position: absolute;
+  top: 26vh;
+  left: 20vw;
+}
+.onionlinks_bot a img {
+  height: auto;
+  width: 2.8rem;
+}
+
+.onionlinks_bot:hover {
+  transition: 3s;
+  opacity: 95%;
+}
+
+/*# sourceMappingURL=onionlinks_bot.css.map */
